@@ -1,6 +1,10 @@
 // ! ! !
 // Three Bugs
 
+// Add [i] to calculateSTI(array) on Line 20
+// basePercent = 0 on Line 48
+// Math.round to newArray[2] on Line 41
+
 var arrayAtticus = ["Atticus", "2405", "47000", 3];
 var arrayJem = ["Jem", "62347", "63500", 4];
 var arrayBoo = ["Boo", "11435", "54000", 3];
